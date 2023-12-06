@@ -62,7 +62,7 @@ Mocha is used in combination with Chai for testing the app.
 ## package.json
 Click to show/hide file contents
 
-{
+@code {
   "name": "files_manager",
   "version": "1.0.0",
   "description": "",
@@ -107,10 +107,10 @@ Click to show/hide file contents
   }
 }
 
-.eslintrc.js
+## .eslintrc.js
 Click to show/hide file contents
 
-module.exports = {
+@code module.exports = {
     env: {
       browser: false,
       es6: true,
@@ -148,10 +148,10 @@ module.exports = {
     ]
 };
 
-babel.config.js
+## babel.config.js
 Click to show/hide file contents
 
-module.exports = {
+@code module.exports = {
     presets: [
       [
         '@babel/preset-env',
@@ -164,5 +164,5 @@ module.exports = {
     ],
 };
 
-and…
+### and…
 Don’t forget to run $ npm install when you have the package.json
