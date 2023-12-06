@@ -59,9 +59,11 @@ Mocha is used in combination with Chai for testing the app.
 
 
 # Provided files
-## package.json
-Click to show/hide file contents
+```javascript
+@FileManager
 
+<button @onclick="OnYes">Yes!</button>package.json
+Click to show/hide file contents
 @code {
   "name": "files_manager",
   "version": "1.0.0",
@@ -106,7 +108,7 @@ Click to show/hide file contents
     "sinon": "^7.5.0"
   }
 }
-
+```
 ## .eslintrc.js
 Click to show/hide file contents
 
