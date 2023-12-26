@@ -35,7 +35,7 @@ Mocha is used in combination with Chai for testing the app.
 - [Express getting started](https://expressjs.com/en/starter/installing.html)
 - [Mocha documentation](https://mochajs.org/)
 - [Nodemon documentation](https://github.com/remy/nodemon#nodemon)
-- MongoDB
+- [MongoDB](https://github.com/mongodb/node-mongodb-native)
 - Bull
 - Image thumbnail
 - Mime-Types
