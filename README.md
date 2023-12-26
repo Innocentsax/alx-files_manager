@@ -31,7 +31,7 @@ Mocha is used in combination with Chai for testing the app.
 ## Read or watch:
 
 - [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-- Process API doc
+- [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
 - Express getting started
 - Mocha documentation
 - Nodemon documentation
