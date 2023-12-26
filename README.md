@@ -38,7 +38,7 @@ Mocha is used in combination with Chai for testing the app.
 - [MongoDB](https://github.com/mongodb/node-mongodb-native)
 - [Bull](https://github.com/OptimalBits/bull)
 - [Image thumbnail](https://www.npmjs.com/package/image-thumbnail)
-- Mime-Types
+- [Mime-Types](https://www.npmjs.com/package/mime-types)
 - Redis
 # Learning Objectives
 * At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
